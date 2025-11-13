@@ -5,5 +5,6 @@ Generally snippets are for C# code for Unity game engine.
 
 ## Highlights:
 - [Zenject Scene Intaller](ZenjectInstaller.cs)
-- Unity Editor Property Drawers
-- 
+- [Unity Editor Property Drawers](CostEntryDrawer.cs)
+- [ResourceManager](ResourceManager.cs)
+- [EnergySystem](EnergySystem.cs)
